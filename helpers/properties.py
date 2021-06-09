@@ -4,6 +4,7 @@ def get_settings():
         "DEFAULT-DRIVER": "Chrome",
         "DEFAULT-BASE-URL": "http://automationpractice.com/index.php",
         "USER-LOGIN": "",
-        "USER-PASSWORD": ""
+        "USER-PASSWORD": "",
+        "xx": "x"
 
     }
